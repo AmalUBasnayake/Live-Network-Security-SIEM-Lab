@@ -59,7 +59,7 @@ Follow these steps to replicate this environment:
 1. Download the `start_automation.bat` script.
 2. Ensure **TShark** (Wireshark) is installed on your system.
 3. Run the script as **Administrator** to start the live capture.
-   ![Running Script](screenshots/NPW-10.png)
+   ![Running Script](screenshots/NPW-12.png)
 
 ### **Step 2: Splunk Configuration**
 1. Open Splunk and navigate to **Settings > Data Inputs > Files & Directories**.
